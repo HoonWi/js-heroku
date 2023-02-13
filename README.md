@@ -1,2 +1,0 @@
-# js-heroku
-heroku hosting
